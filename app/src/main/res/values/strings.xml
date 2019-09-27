@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Sacco</string>
+    <string name="memberno">Member No.</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_having_account">Already Having an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="not_having_account">Not Having an Account?</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_main">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="about_page_description" translatable="false">
+        Prison Sacco was established in the year 2018 January to enable employees of Prisons to
+        easily access loans through their mobile devices without having to go through the rigorous
+        methods of loan applications.
+        We are your pocket online loan application platform. Enabling you to easily acquire loans at
+        the convenience of your mobile device.
+    </string>
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_instagram">Follow us on Instagram</string>
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Play Store</string>
+    <string name="about_youtube">Watch us on Youtube</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Fork us on GitHub</string>
+    <string name="about_website">Visit our website</string>
+
+    <string name="loan_type_prompt">Select Loan Type</string>
+    <string-array name="loantypes">
+        <item>Normal Loan</item>
+        <item>Super Savers</item>
+        <item>Super Loan</item>
+        <item>Inua Loan</item>
+    </string-array>
+
+    <string name="select_county_prompt">Select County</string>
+    <string-array name="counties">
+        <item>Baringo</item>
+        <item>Bomet</item>
+        <item>Bungoma</item>
+        <item>Busia</item>
+        <item>Elgeyo-Marakwet</item>
+        <item>Embu</item>
+        <item>Garissa</item>
+        <item>Homa</item>
+        <item>Isiolo</item>
+        <item>Kajiado</item>
+        <item>Kakamega</item>
+        <item>Kericho</item>
+        <item>Kiambu</item>
+        <item>Kilifi</item>
+        <item>Kirinyaga</item>
+        <item>Kisii</item>
+        <item>Kisumu</item>
+        <item>Kitui</item>
+        <item>Kwale</item>
+        <item>Laikipia</item>
+        <item>Lamu</item>
+        <item>Machakos</item>
+        <item>Makueni</item>
+        <item>Mandera</item>
+        <item>Marsabit</item>
+        <item>Meru</item>
+        <item>Migori</item>
+        <item>Mombasa</item>
+        <item>Muranga</item>
+        <item>Nairobi</item>
+        <item>Nakuru</item>
+        <item>Nandi</item>
+        <item>Narok</item>
+        <item>Nyamira</item>
+        <item>Nyandarua</item>
+        <item>Nyeri</item>
+        <item>Samburu</item>
+        <item>Siaya</item>
+        <item>Taita Taveta</item>
+        <item>Tana</item>
+        <item>Tharaka-Nithi</item>
+        <item>Trans-Nzoia</item>
+        <item>Turkana</item>
+        <item>Uasin</item>
+        <item>Vihiga</item>
+        <item>Wajir</item>
+        <item>West</item>
+    </string-array>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+</resources>
